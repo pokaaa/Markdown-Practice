@@ -1,5 +1,5 @@
 ## Peppa Pig's Details
->go back to [README.md](https://github.com/pokaaa/Markdown-Practice/blob/master/README.md)
+>go back to [README.md](/README.md)
 ---
 
 #### Family Member
