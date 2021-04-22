@@ -26,10 +26,10 @@ Here's the **link** ->
 #### Favourite Food
 
  * Chinese Food
-  * MaPo Tofu
-  * Peking Duck
+   * MaPo Tofu
+   * Peking Duck
  * English Food
-  * Fish and Cheaps
+   * Fish and Cheaps
 
 ---
 #### Favourite Sports
