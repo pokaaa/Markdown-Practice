@@ -41,7 +41,7 @@ Here's the **link** ->
 
 #### Pictures of Pig Family
 
-![peppa family1](https://github.com/pokaaa/Markdown-Practice/blob/master/pig.jpg)
+![peppa family1](/pig.jpg)
 
 
 ![peppa family2](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimage.whhost.net%2Fuploads%2F20180209%2F18%2F1518173940-invTFyegGK.jpg&amp;refer=http%3A%2F%2Fimage.whhost.net&amp;app=2002&amp;size=f9999,10000&amp;q=a80&amp;n=0&amp;g=0n&amp;fmt=jpeg?sec=1621697222&amp;t=c557295244320b6a588b05fbaffc13e3)
