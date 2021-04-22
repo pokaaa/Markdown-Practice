@@ -1,7 +1,7 @@
 ## Peppa Pig's Home
 
 
->watch more details in [peppa.md](https://github.com/pokaaa/Markdown-Practice/blob/master/peppa.md)
+>watch more details in [peppa.md](/peppa.md)
 ---
 
 #### Video of Peppa Pig
